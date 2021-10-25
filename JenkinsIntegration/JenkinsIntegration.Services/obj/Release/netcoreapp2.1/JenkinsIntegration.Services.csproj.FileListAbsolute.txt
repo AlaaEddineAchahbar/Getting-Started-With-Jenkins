@@ -1,0 +1,9 @@
+D:\Azure\jenkins\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\bin\Release\netcoreapp2.1\JenkinsIntegration.Services.deps.json
+D:\Azure\jenkins\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\bin\Release\netcoreapp2.1\JenkinsIntegration.Services.dll
+D:\Azure\jenkins\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\bin\Release\netcoreapp2.1\JenkinsIntegration.Services.pdb
+D:\Azure\jenkins\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Release\netcoreapp2.1\JenkinsIntegration.Services.csprojAssemblyReference.cache
+D:\Azure\jenkins\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Release\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfoInputs.cache
+D:\Azure\jenkins\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Release\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfo.cs
+D:\Azure\jenkins\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Release\netcoreapp2.1\JenkinsIntegration.Services.csproj.CoreCompileInputs.cache
+D:\Azure\jenkins\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Release\netcoreapp2.1\JenkinsIntegration.Services.dll
+D:\Azure\jenkins\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Release\netcoreapp2.1\JenkinsIntegration.Services.pdb
